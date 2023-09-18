@@ -1,40 +1,9 @@
 public class MagicFind {
-    private int iiq;
-    private int iiqNormal;
-    private int iir;
-    private int iirNormal;
+    int iiq;
+    int iiqNormal;
+    int iir;
+    int iirNormal;
 
-    public int getIiq() {
-        return iiq;
-    }
-
-    public void setIiq(int iiq) {
-        this.iiq = iiq;
-    }
-
-    public int getIiqNormal() {
-        return iiqNormal;
-    }
-
-    public void setIiqNormal(int iiqNormal) {
-        this.iiqNormal = iiqNormal;
-    }
-
-    public int getIir() {
-        return iir;
-    }
-
-    public void setIir(int iir) {
-        this.iir = iir;
-    }
-
-    public int getIirNormal() {
-        return iirNormal;
-    }
-
-    public void setIirNormal(int iirNormal) {
-        this.iirNormal = iirNormal;
-    }
 
     public MagicFind(int iiq, int iir) {
         this.iiq = iiqNormal;
